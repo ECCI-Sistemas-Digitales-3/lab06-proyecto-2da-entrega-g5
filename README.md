@@ -2,5 +2,10 @@
 # Lab06: Proyecto 2da. entrega
 
 ## Integrantes
+JOHANA TORO
+DAVID LAYTON
+GEOVANNI NEIRA
 
 ## Documentación
+
+Se suben las siguientes imagenes de NODE-RED donde se indica el control de temperatura, mezclador,control niveles de tanque y mezclador de pintura. ![MEZCLADOR](https://github.com/user-attachments/assets/dd0cf0db-ba60-4e6a-ae9a-fa7b2a5ef340)
